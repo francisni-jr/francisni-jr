@@ -1,68 +1,78 @@
 <br clear="both">
-<h1
-align="center">Hi 🥳, I'm Francisní Jr</h1>
-<hr />
-<h3 
-align="center">Full stack web developer</h3>
-<hr />
+<h2
+align="center"> 
+  <span>Hi 🥳, I'm Francisní</span>
+  <cite>
+    <u>a Beginner Web dev</u>
+  </cite>
+</h1>
+
+<br clear="both" >
+
+***
+
+<br clear="both" >
+
+<span align="center">
+  <img 
+  width="100%"
+  align="center" src="https://share.creavite.co/WJJNdysV2GhKNFVZ.gif" alt="" />
+</span>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=francisni-jr&theme=gotham)
+
+
+<img src="https://share.creavite.co/M9X1KQCr8gtzd8Wr.gif" alt="gif" />
+
+<br clear="both" >
+
+&nbsp;
+&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+
+***
+
 
 <br clear="both">
 
-<p 
-align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisni-jr&" alt="francisni-jr" /></p>
 
-<p 
-  align="center">&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=francisni-jr&show_icons=true&locale=en" alt="francisni-jr" /></p>
-</p>
-
-<br clear="both">
-
-<hr />
-
-<br clear="both">
-
-<h3 align="center">Languages and tools I've been using:</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" width="52" alt="bulma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francisni-jr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=14758f" alt="stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisni-jr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=14758f" />
 </div>
-
-
-<br clear="both">
-
-<hr />
-
-<h3 align="center">Contact me on:</h3>
-
-<div align="center">
-  <a href="mailto: francisnijr1.acc@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  <a/>
-  <a/>
-  <a href="https://instagram.com/francisnijr">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
-  <a/>
-</div>
-
-<br clear="both"/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=francisni-jr.francisni-jr&"  />
 </div>
 
-<br clear="both">
-<hr />
+<br clear="both" >
+
+***
+
+<br clear="both" >
+
+<p align="center">
+  <img 
+  height="100px"
+  src="https://share.creavite.co/F1TPq6PN5GqyFPOF.gif" alt="gif" />
+</p>
+
+<p align="center">
+  <a href="mailto: francisnijr1.acc@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="60" alt="gmail logo" />
+  <a/>
+  <br clear="both"/>
+  <a href="https://instagram.com/francisnijr">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="60" alt="instagram logo"  />
+  <a/>
+</p>
+
+
 <!--
 You can copy this readMe if you want to use it like a template...😝🤙
 -->
