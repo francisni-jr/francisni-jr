@@ -21,8 +21,13 @@ align="center">
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=francisni-jr&theme=gotham)
 
+<br clear="both"/>
 
-<img src="https://share.creavite.co/M9X1KQCr8gtzd8Wr.gif" alt="gif" />
+***
+
+<br clear="both"/>
+
+<h3 align="center">Most used tools and languages</h3>
 
 <br clear="both" >
 
@@ -40,6 +45,7 @@ align="center">
 
 <br clear="both">
 
+<h3 align="center" >Github stats</h3>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francisni-jr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=14758f" alt="stats" /> 
@@ -59,7 +65,7 @@ align="center">
 <p align="center">
   <img 
   height="100px"
-  src="https://share.creavite.co/F1TPq6PN5GqyFPOF.gif" alt="gif" />
+  src="https://share.creavite.co/F1TPq6PN5GqyFPOF.gif" />
 </p>
 
 <p align="center">
