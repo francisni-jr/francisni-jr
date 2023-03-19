@@ -1,5 +1,10 @@
-<br clear="both">
-<h2
+<img 
+width="100%"
+src="https://i.ibb.co/RQv0ZM9/svg-1.png" alt="svg-1" border="0">
+
+###
+
+<h1
 align="center"> 
   <span>Hi 🥳, I'm Francisní</span>
   <cite>
@@ -7,11 +12,10 @@ align="center">
   </cite>
 </h1>
 
-<br clear="both" >
+___
 
-***
+<br clear="both"/>
 
-<br clear="both" >
 
 <span align="center">
   <img 
@@ -19,63 +23,59 @@ align="center">
   align="center" src="https://share.creavite.co/WJJNdysV2GhKNFVZ.gif" alt="" />
 </span>
 
-<br  clear="both"/>
-
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=francisni-jr&theme=gotham)
 
-<br clear="both"/>
-
-***
-
-<br clear="both"/>
-
-<h3 align="center">Most used tools and languages</h3>
-
 <br clear="both" >
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) &nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
-
-***
-
-
-<br clear="both">
-
-<h3 align="center" >Github stats</h3>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francisni-jr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=14758f" alt="stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisni-jr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=14758f" />
-</div>
+<h2 align="center">Github stats:</h2>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=francisni-jr.francisni-jr&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=francisni-jr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" width="100%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francisni-jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" width="100%" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img 
+  width="50%"
+  src="https://profile-counter.glitch.me/francisni-jr/count.svg?" />
+</div>
+
+###
+
+<br clear="both" >
+
+<h2 align="center">Most used tools and languages:</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" width="70" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" width="70" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="70" width="70" alt="bulma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70" alt="react logo"  />
 </div>
 
 <br clear="both" >
 
-***
+<h2 align="center">Contact me on:</h2>
 
-<br clear="both" >
-
-<h3 align="center">Contact me</h3>
-
-<p align="center">
-  <a href="mailto: francisnijr1.acc@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="60" alt="gmail logo" />
-  <a/>
-  <br clear="both"/>
+<div align="center">
   <a href="https://instagram.com/francisnijr">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="60" alt="instagram logo"  />
-  <a/>
-</p>
-
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0a0a0f&logoColor=darkRed&labelColor=darkred&style=for-the-badge"
+    width="50%"
+    height="70" alt="instagram logo"  />
+  </a>
+  
+  ###
+  
+  <a href="mailto: francisnijr1.acc@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0a0a0f&logoColor=pink&labelColor=tomato&style=for-the-badge" 
+    width="40%"
+    height="70" alt="gmail logo"  />
+  </a>
+</div>
 
 <!--
 You can copy this readMe if you want to use it like a template...😝🤙
